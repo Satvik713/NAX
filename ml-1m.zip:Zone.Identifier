@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://grouplens.org/
+HostUrl=https://files.grouplens.org/datasets/movielens/ml-1m.zip
